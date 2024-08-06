@@ -1,4 +1,6 @@
-import telebot, requests, threading, time, datetime, paramiko, json, sys
+#Module
+import telebot
+import requests, threading, time, datetime, paramiko, json, sys
 import os, asyncio, socket
 
 from datetime import datetime
